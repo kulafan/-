@@ -1,15 +1,14 @@
-# shadowsocks-over-websocket
-基于 [shadowsocks](https://zh.wikipedia.org/zh-cn/Shadowsocks) 协议的翻墙工具 , 可部署在 [Heroku](https://www.heroku.com/) 平台上 , 实现免费科学上网
+# <谁为我心动>
+(./img/poster.jpeg)
+2017 广播电视学2班 电视节目制作课 课程期末考核 
+指导老师：杨金山
+组员 赖展鹏 曾灵枫 彭达恒 曾慧婷 等...
 
 
-## 如何部署在 Heroku 平台上
+## 制作过程
 
-### 1.准备工作
-* [Heroku](https://signup.heroku.com/) 注册
-* [GitHub](https://github.com/join?source=header-home) 注册
+### 1.分工
 
-### 2.Fork [本项目](https://github.com/VincentChanX/shadowsocks-over-websocket) 到个人账号下
-![1](./imgs/1.jpg)
-进入 <https://github.com/VincentChanX/shadowsocks-over-websocket> 页面  ==>  Fork
 
+### 
 ---
